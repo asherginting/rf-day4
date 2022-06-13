@@ -15,7 +15,7 @@ Output: Remaja
 Input: 32
 Output: Dewasa */
 
-age = 21;
+const age = 7;
 
 if (age >= 21) {
     console.log("DEWASA");

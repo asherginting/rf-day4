@@ -16,7 +16,7 @@ Output: Bukan kabisat
 Input: 2016
 Output: Kabisat */
 
-year = 1900;
+year = 2001;
 
 if (year % 4 === 0) {
     console.log("Kabisat");

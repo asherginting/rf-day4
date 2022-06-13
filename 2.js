@@ -10,7 +10,7 @@ Output: Ganjil
 Input: 1032
 Output: Genap */
 
-bil = 2;
+bil = 1;
 
 if (bil % 2 === 0) {
     console.log("Genap");
