@@ -16,10 +16,10 @@ Output: Bukan kabisat
 Input: 2016
 Output: Kabisat */
 
-year = 2001;
+yr = 2001;
 
-if (year % 4 === 0) {
+if ((yr == 0 && yr !=0) || (yr % 400 == 0)) {
     console.log("Kabisat");
 } else {
-    console.log("Bukan Kabisat")
+    console.log("Bukan Kabisat!")
 }
